@@ -1,26 +1,69 @@
-# Zero-cost website business starter
+# BrightNest — Home Cleaning Website Concept
 
-This is a responsive, one-page portfolio concept for a **fictional** Dubai home-cleaning brand called BrightNest. It is a demonstration project, not a real business website.
+A modern, responsive website concept for a fictional home-cleaning business in Dubai. Built with HTML, CSS, and vanilla JavaScript as a web design portfolio project.
 
-## Files
-- `index.html` — page content and semantic structure
-- `styles.css` — responsive styling and the CSS living-room illustration
-- `script.js` — mobile navigation and safe demo-form feedback
+> **Portfolio demo:** BrightNest is fictional and is not a real cleaning company. This project demonstrates website design and front-end development capabilities.
 
-## Run it locally
-1. Extract the ZIP.
-2. Open `index.html` in a browser, or open the folder in Visual Studio Code and use a local preview extension if you already have one.
-3. Check desktop and mobile widths, every navigation link, and keyboard focus.
+## Preview
 
-The font files are loaded from Google Fonts when internet access is available; fallback fonts are included. The hero illustration is made with CSS, so no paid image assets are required.
+The website is designed to help visitors understand the services offered, explore the business concept, and find clear calls to action on both desktop and mobile devices.
 
-## Before showing it to a prospect
-- Keep the demo banner visible and say clearly that this is a concept for a fictional business.
-- Do not present the demo as work for a real client.
-- Do not publish a real business's name, logo, photos, prices, claims, address, phone number, or reviews without permission and verification.
-- Replace all copy and details only after the business approves them.
-- Connect the quote form to a real destination and test delivery before launch. The included form intentionally does not collect, send, or store personal information.
-- Check current hosting terms, domain requirements, privacy obligations, and any business/licensing requirements before taking paid work.
+## Features
 
-## Suggested first AI prompt
-Act as a senior front-end developer and conversion-focused web designer. Work on this existing plain HTML/CSS/JavaScript project. Keep it lightweight, responsive, accessible, fast, and easy for a beginner to maintain. Do not add paid services, paid libraries, a build step, fake reviews, invented credentials, fake addresses, or claims that cannot be verified. Preserve the visible fictional-demo disclaimer. Before making edits, explain the plan; after edits, list files changed and give a QA checklist for mobile navigation, keyboard access, contrast, links, layout, form behavior, and performance. The form must remain clearly marked as non-functional until a real approved destination is connected.
+- Responsive layouts for desktop, tablet, and mobile
+- Clean, modern visual design
+- Semantic HTML structure
+- CSS-based hero illustration
+- Mobile navigation
+- Interactive demonstration form with demo-only feedback
+- Accessible navigation and keyboard-focus styling
+- Lightweight implementation without paid libraries or frameworks
+
+## Technologies
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+## Project Structure
+
+```text
+brightnest-website-demo/
+├── index.html
+├── styles.css
+├── script.js
+└── README.md
+```
+
+## Run Locally
+
+1. Download or clone this repository.
+2. Open `index.html` in a web browser.
+3. Test the layout at desktop and mobile widths.
+4. Check navigation links, keyboard focus, and demo-form behaviour.
+
+No build step is required for the current static website.
+
+## Deployment
+
+This project can be deployed using a compatible static hosting service, such as Cloudflare Pages. A public repository alone does not mean the website is deployed.
+
+## Limitations
+
+- The business, its services, and its content are fictional demonstration material.
+- The form is a demonstration and does not send or store enquiries.
+- No real customer reviews, business credentials, or performance claims are represented.
+- Any future client version must use verified business details and approved assets.
+
+## Future Improvements
+
+- Publish a live preview.
+- Improve accessibility and performance after testing.
+- Add real contact functionality when an approved destination is configured.
+- Adapt the design to a real client's requirements with permission.
+
+## Author
+
+Om Singh — aspiring web developer building responsive websites for small businesses.
+
+This project is part of an independent web development portfolio.
